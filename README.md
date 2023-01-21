@@ -1,23 +1,21 @@
 # Week 4: Python Basics II
 
-This week, we will continue our exploration of Python basics in Jupyter Notebooks. 
+This week, we will continue our exploration of Python basics. 
 
 - Topics covered:
-    - Python basics: Files and Character Encoding; Python Comparisons and Conditionals; Python Lists and Loops; Python Lists and Loops (Cont.); Python Dictionaries; Python Functions; Common Python Errors
+    - Python basics
     - How to become an an expert troubleshooter and why that is more important than learning how to write code from scratch as a beginner
-    - Using Markdown in Jupyter Notebooks
+   
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Files and Character Encoding - Common Python Errors)
-    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
+    - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (loops - objects)
 - Assignments (due by 10am on the day of class):
-    - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
-        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice.  
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
+    - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
 - Final project deliverable:
-    - Schedule a meeting with me to discuss ideas for your final project 
+    - Schedule a meeting with me [here](https://calendly.com/rkrisel-1/final?month=2023-02) to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-        - DHRI: [Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)
-        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
-    - Cheat sheets:
-        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
+       
+    
